@@ -1,0 +1,6 @@
+{
+    "name": "doghouse/html_field_formatter",
+    "description": "Adds an HTML field formatter.",
+    "type": "drupal-module",
+    "license": "GPL-2.0-or-later"
+}
